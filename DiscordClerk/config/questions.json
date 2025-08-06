@@ -1,0 +1,103 @@
+{
+    "Designer": [
+        {
+            "id": "design_experience",
+            "question": "How many years of design experience do you have?",
+            "type": "text"
+        },
+        {
+            "id": "design_software",
+            "question": "What design software are you proficient in? (e.g., Photoshop, Illustrator, Figma)",
+            "type": "text"
+        },
+        {
+            "id": "portfolio",
+            "question": "Please provide a link to your portfolio or attach examples of your work:",
+            "type": "text"
+        },
+        {
+            "id": "design_style",
+            "question": "How would you describe your design style?",
+            "type": "text"
+        },
+        {
+            "id": "availability",
+            "question": "How many hours per week are you available to work?",
+            "type": "text"
+        },
+        {
+            "id": "motivation",
+            "question": "Why do you want to join the ER:LC design team?",
+            "type": "text"
+        }
+    ],
+    "Developer": [
+        {
+            "id": "programming_experience",
+            "question": "How many years of programming experience do you have?",
+            "type": "text"
+        },
+        {
+            "id": "programming_languages",
+            "question": "What programming languages are you proficient in?",
+            "type": "text"
+        },
+        {
+            "id": "frameworks",
+            "question": "What frameworks and technologies have you worked with?",
+            "type": "text"
+        },
+        {
+            "id": "github_portfolio",
+            "question": "Please provide your GitHub profile or links to your projects:",
+            "type": "text"
+        },
+        {
+            "id": "database_experience",
+            "question": "Do you have experience with databases? If so, which ones?",
+            "type": "text"
+        },
+        {
+            "id": "availability",
+            "question": "How many hours per week are you available to work?",
+            "type": "text"
+        },
+        {
+            "id": "motivation",
+            "question": "Why do you want to join the ER:LC development team?",
+            "type": "text"
+        }
+    ],
+    "Staff": [
+        {
+            "id": "previous_experience",
+            "question": "Do you have any previous moderation or staff experience? Please describe:",
+            "type": "text"
+        },
+        {
+            "id": "timezone",
+            "question": "What timezone are you in and when are you most active?",
+            "type": "text"
+        },
+        {
+            "id": "conflict_resolution",
+            "question": "How would you handle a conflict between community members?",
+            "type": "text"
+        },
+        {
+            "id": "community_contribution",
+            "question": "How do you plan to contribute to the ER:LC community?",
+            "type": "text"
+        },
+        {
+            "id": "availability",
+            "question": "How many hours per week are you available for staff duties?",
+            "type": "text"
+        },
+        {
+            "id": "motivation",
+            "question": "Why do you want to become a staff member for ER:LC?",
+            "type": "text"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "bot": {
+        "name": "CLA Designs Management Bot",
+        "description": "Comprehensive Discord bot for CLA Designs community management",
+        "color": "#0099ff",
+        "footer": "CLA Designs System"
+    },
+    "channels": {
+        "hr_notifications": "hr_channel_id_here",
+        "applications_log": "applications_log_channel_id_here",
+        "order_notifications": "order_notifications_channel_id_here",
+        "rules_channel": "rules_channel_id_here"
+    },
+    "roles": {
+        "hr_team": "hr_role_id_here",
+        "management": "management_role_id_here",
+        "designers": "designers_role_id_here",
+        "moderators": "moderators_role_id_here"
+    },
+    "application": {
+        "timeout_minutes": 30,
+        "max_retries": 3,
+        "confirmation_message": "Thank you for your application! Our HR team will review it and get back to you soon."
+    },
+    "points": {
+        "ban_threshold": 16,
+        "warning_threshold": 10,
+        "auto_ban_enabled": true
+    },
+    "orders": {
+        "create_private_channels": true,
+        "auto_notify_designers": true,
+        "require_terms_acceptance": true
+    },
+    "embeds": {
+        "careers_title": "🚀 ER:LC Careers",
+        "careers_description": "Join our growing team! We're looking for talented individuals to help build and maintain the ER:LC community.",
+        "positions": {
+            "Designer": {
+                "emoji": "🎨",
+                "description": "Create stunning visuals and user interfaces"
+            },
+            "Developer": {
+                "emoji": "💻",
+                "description": "Build and maintain our applications and systems"
+            },
+            "Staff": {
+                "emoji": "🛡️",
+                "description": "Help moderate and support our community"
+            }
+        }
+    }
+}
